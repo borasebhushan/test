@@ -1,2 +1,5 @@
 This is demo test file as login problem is solved.... thanks 
 
+This line added to check stash command ...
+This line moving from one branch to other branch using stash command .
+
