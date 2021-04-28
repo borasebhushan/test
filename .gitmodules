@@ -1,0 +1,3 @@
+[submodule "newdeomotest"]
+	path = newdeomotest
+	url = https://github.com/borasebhushan/newdeomotest.git
